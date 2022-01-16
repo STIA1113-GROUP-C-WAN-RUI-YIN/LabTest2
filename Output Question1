@@ -1,0 +1,20 @@
+Please integer 1 to proceed. 1
+Please input an integer. 0
+0 is an even number.
+Do you still have number to check ? Please integer 1 to continue or any other integer to stop. 1
+Please input an integer. 1
+1 is an odd number.
+Do you still have number to check ? Please integer 1 to continue or any other integer to stop. 1
+Please input an integer. 88
+88 is an even number.
+Do you still have number to check ? Please integer 1 to continue or any other integer to stop. 1
+Please input an integer. 99
+99 is an odd number.
+Do you still have number to check ? Please integer 1 to continue or any other integer to stop. 1
+Please input an integer. -1
+-1 is an odd number.
+Do you still have number to check ? Please integer 1 to continue or any other integer to stop. 1
+Please input an integer. -2
+-2 is an even number.
+Do you still have number to check ? Please integer 1 to continue or any other integer to stop. 2
+BYE!
