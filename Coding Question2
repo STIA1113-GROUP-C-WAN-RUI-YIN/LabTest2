@@ -17,7 +17,7 @@ public class Question2 {
 		
 		while (mark[i] <0 ||mark[i] >100) {
 		System.out.println("NOT VALID! Please try again!"); 
-		for (i = 1; i<4;i++) {
+		for (i = 0; i<3;i++) {
 			System.out.println("Enter the mark (0-100) for student " + (i+1) + " :");  
 			mark[i] = scan.nextInt();
 			}
